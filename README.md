@@ -14,4 +14,8 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=XiqZo&show_icons=true&count_private=true&theme=radical) 
 
 ## Skill Badges
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,php,py,cs,cpp,discord,linkedin&theme=dark&perline=10)](https://skillicons.dev)
+### Languges
+[![Languges](https://skillicons.dev/icons?i=javascript,typescript,nodejs,php,py,cs,cpp&theme=dark&perline=10)](https://skillicons.dev)
+
+### Social Media
+[![Social](https://skillicons.dev/icons?i=discord,linkedin&theme=dark&perline=10)](https://skillicons.dev)
