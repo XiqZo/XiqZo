@@ -22,3 +22,6 @@
 
 ### Social Media
 [![Social](https://skillicons.dev/icons?i=discord,linkedin&theme=dark&perline=10)](https://skillicons.dev)
+
+### Other
+[![Social](https://skillicons.dev/icons?i=docker,electron,gradle,idea&theme=dark&perline=10)](https://skillicons.dev)
