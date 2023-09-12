@@ -15,13 +15,16 @@
 
 ## Skill Badges
 ### Languges
-[![Languges](https://skillicons.dev/icons?i=javascript,typescript,nodejs,php,py,cs,cpp&theme=dark&perline=10)](https://skillicons.dev)
+[![Languges](https://skillicons.dev/icons?i=javascript,typescript,php,py,cs,cpp&theme=dark&perline=10)](https://skillicons.dev)
 
 ### Framework
 [![Framework](https://skillicons.dev/icons?i=vue,angular&theme=dark&perline=10)](https://skillicons.dev)
+
+### Runtime Environment
+[![Runtime](https://skillicons.dev/icons?i=nodejs&theme=dark&perline=10)](https://skillicons.dev)
 
 ### Social Media
 [![Social](https://skillicons.dev/icons?i=discord,linkedin&theme=dark&perline=10)](https://skillicons.dev)
 
 ### Other
-[![Social](https://skillicons.dev/icons?i=docker,electron,gradle,idea&theme=dark&perline=10)](https://skillicons.dev)
+[![Other](https://skillicons.dev/icons?i=docker,electron,gradle,idea&theme=dark&perline=10)](https://skillicons.dev)
