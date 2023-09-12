@@ -23,8 +23,17 @@
 ### Runtime Environment
 [![Runtime](https://skillicons.dev/icons?i=nodejs&theme=dark&perline=10)](https://skillicons.dev)
 
-### Social Media
-[![Social](https://skillicons.dev/icons?i=discord,linkedin&theme=dark&perline=10)](https://skillicons.dev)
+### IDE
+[![IDE](https://skillicons.dev/icons?i=idea,vscode,neovim,vim&theme=dark&perline=10)](https://skillicons.dev)
+
+### DB
+[![DB](https://skillicons.dev/icons?i=mongodb&theme=dark&perline=10)](https://skillicons.dev)
+
+### Game Dev
+[![Game](https://skillicons.dev/icons?i=unity,unreal&theme=dark&perline=10)](https://skillicons.dev)
 
 ### Other
-[![Other](https://skillicons.dev/icons?i=docker,electron,gradle,idea&theme=dark&perline=10)](https://skillicons.dev)
+[![Other](https://skillicons.dev/icons?i=docker,electron,gradle,spring,wordpress&theme=dark&perline=10)](https://skillicons.dev)
+
+### Social Media
+[![Social](https://skillicons.dev/icons?i=discord,linkedin&theme=dark&perline=10)](https://skillicons.dev)
